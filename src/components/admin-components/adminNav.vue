@@ -100,10 +100,9 @@
                 </ul>
             </div>
         </div>
-        <div class="flex justify-self-end">
-            <Profile class="" /> <!--PROFILE COMPONENT-->
+        <div class="flex w-full justify-end mr-2">
+            <Profile class=""/> <!--PROFILE COMPONENT-->
         </div>
-
     </nav>
 </template>
 

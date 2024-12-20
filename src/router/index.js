@@ -59,7 +59,7 @@ const router = createRouter({
     },
     {
       path: '/student_layout',
-      name: 'Stud',
+      name: 'student',
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
@@ -67,7 +67,7 @@ const router = createRouter({
     },
     {
       path: '/employee_layout',
-      name: 'Employ',
+      name: 'employee',
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.

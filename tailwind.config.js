@@ -12,10 +12,12 @@ export default {
         'viewport-minus-adminnav': 'calc(100vh - 65px)',
         'id-long': '324px', //Real life height: 3.375 inches or 324 pixels @ 96 PPI
         'id-long-large': '486px',
+        'id-short': '204px', //Real life width: 2.125 inches or 204 pixels @ 96 PPI
       },
       width: {
         'id-short': '204px', //Real life width: 2.125 inches or 204 pixels @ 96 PPI
         'id-short-large': '306px',
+        'id-long': '324px', //Real life height: 3.375 inches or 324 pixels @ 96 PPI
       },
     },
 
